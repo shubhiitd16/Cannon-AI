@@ -1,3 +1,5 @@
+## Added Cannabot (AI-powered-bot) for Canon game Playing
+
 # Cannon
 Simulator supporting a user interface for Cannon, an abstract strategy board game.
 
